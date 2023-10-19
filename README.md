@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-ESTAMOS EN LA RAMA MASTER
-=======
+
 ESTAMOS EN LA RAMA MASTER
 a
 a
@@ -13,4 +11,4 @@ aaaa
 a
 aa
 aa
->>>>>>> Alejandro
+
